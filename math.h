@@ -21,6 +21,8 @@ namespace Math500
 
 		void P2_MidPoint_Form(ImVector<ImPlotPoint> b);
 
+		void P3_Newton_Polynomial(ImVector<ImPlotPoint> b);
+
 		float fact(int n);
 
 		ImVector<ImPlotPoint>& getPoints();

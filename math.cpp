@@ -165,6 +165,12 @@ void Math500::math::P2_MidPoint_Form(ImVector<ImPlotPoint> b)
 
 }
 
+void Math500::math::P3_Newton_Polynomial(ImVector<ImPlotPoint> b)
+{
+
+
+}
+
 float Math500::math::fact(int n)
 {
     if (n == 0)
